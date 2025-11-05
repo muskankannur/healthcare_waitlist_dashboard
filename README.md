@@ -42,9 +42,9 @@ It shows waitlist trends and highlights areas with the longest waiting times.
 
 \## 📂 Files
 
-\- `Healthcare\\\_Waitlist\\\_Dashboard.pbix` → Power BI file
+\- `Healthcare/healthcare_dashboard.pbix` → Power BI file
 
-\- `screenshots/healthcare\\\_dashboard.png` → Dashboard preview
+\- `screenshots/healthcare_dashboard.png.png` → Dashboard preview
 
 
 
