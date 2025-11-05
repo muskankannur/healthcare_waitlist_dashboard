@@ -20,18 +20,9 @@ The dashboard includes the following key insights:
 
 ## 🖼️ **Dashboard Preview**
 
-![Healthcare Dashboard](./screenshots/healthcare_dashboard.png)  
+![Healthcare Dashboard](./screenshots/healthcare_dashboard.png.png)  
 
 *(Preview of the Power BI dashboard visualizing key healthcare waitlist metrics.)*  
-
----
-
-## 📂 **Project Files**
-
-| File Name | Description |
-|------------|--------------|
-| `healthcare_dashboard.pbix` | Main Power BI project file |
-| `healthcare_dashboard.png` | Dashboard preview image |
 
 
 ---
